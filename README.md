@@ -10,4 +10,3 @@
 📈 My GitHub Stats
 
 <a align="left"> <img src="https://github-readme-stats.vercel.app/api?username=itssingh&show_icons=true&theme=gotham" /> 
-<a align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itssingh&show_icons=true&theme=gotham"/>
