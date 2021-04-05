@@ -18,9 +18,5 @@
   </b>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=itssingh&show_icons=true&theme=gotham" />
-</p>
 
-
-<table><tr><td><img src="http://github-readme-streak-stats.herokuapp.com?user=itssingh&theme=gotham"/></td><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssingh&layout=compact&theme=gotham&show_icons=true"/></td></tr></table>
+<table><tr><td><img src="https://github-readme-stats.vercel.app/api?username=itssingh&show_icons=true&theme=gotham" /></td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=itssingh&theme=gotham"/></td></tr></table>
