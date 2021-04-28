@@ -8,15 +8,5 @@
 </a>
 
 
-<p align="center">
-  <img src="/images/stat.svg" alt="Alternative Text"/>
-</p>
-
- <p align="center">
- <b>
-    My GitHub Stats
-  </b>
-</p>
-
 
 <table><tr><td><img src="https://github-readme-stats.vercel.app/api?username=itssingh&show_icons=true&theme=gotham" /></td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=itssingh&theme=gotham"/></td></tr></table>
