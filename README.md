@@ -4,7 +4,7 @@
   <img align="left" alt="Sarita Singh | LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/SaritaS10112920?s=09/">
-  <img align="left" alt="@SaritaS10112920 | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="@_singhsarita | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 
